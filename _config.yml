@@ -1,1 +1,14 @@
+name: Nina Polshakova
 theme: jekyll-theme-hacker
+description: 'When does writing code count as creative writing?'
+
+gems:
+  - jekyll-gist
+  - jekyll-sitemap
+
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+author: Nina Polshakova
+disqus_shortname: npolshak
