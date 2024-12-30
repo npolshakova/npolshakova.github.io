@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:8080/2023/01/20/nas.html</loc>
+<lastmod>2023-01-20T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:8080/2023/12/26/recap.html</loc>
-<lastmod>2023-12-26T00:00:00-08:00</lastmod>
+<lastmod>2023-12-26T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:8080/2024/01/08/tea.html</loc>
-<lastmod>2024-01-08T00:00:00-08:00</lastmod>
+<lastmod>2024-01-08T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8080/2024/01/14/kubectl.html</loc>
+<lastmod>2024-01-14T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:8080/</loc>
